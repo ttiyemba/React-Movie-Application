@@ -2,7 +2,7 @@
 
 ![](picture.png)
 
-## Available Scripts
+## How to run
 
 In the project directory, you can run:
 
