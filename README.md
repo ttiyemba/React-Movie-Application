@@ -1,4 +1,4 @@
-# Movie App with react
+# Movie App with react using  OMDb API
 
 ![](picture.png)
 
