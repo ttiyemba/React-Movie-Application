@@ -2,7 +2,7 @@
 
 ![](picture.png)
 
-## How to run
+## `How to run`
 
 In the project directory, you can run:
 
